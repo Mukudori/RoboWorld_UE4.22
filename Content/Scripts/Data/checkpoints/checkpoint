@@ -1,0 +1,8 @@
+model_checkpoint_path: "D:\\Coding\\UE4\\RoboWorld_BP22\\Content\\Python\\Data\\checkpoints/i70000_l256.ckpt"
+all_model_checkpoint_paths: "D:\\Coding\\UE4\\RoboWorld_BP22\\Content\\Python\\Data\\checkpoints/i10000_l256.ckpt"
+all_model_checkpoint_paths: "D:\\Coding\\UE4\\RoboWorld_BP22\\Content\\Python\\Data\\checkpoints/i20000_l256.ckpt"
+all_model_checkpoint_paths: "D:\\Coding\\UE4\\RoboWorld_BP22\\Content\\Python\\Data\\checkpoints/i30000_l256.ckpt"
+all_model_checkpoint_paths: "D:\\Coding\\UE4\\RoboWorld_BP22\\Content\\Python\\Data\\checkpoints/i40000_l256.ckpt"
+all_model_checkpoint_paths: "D:\\Coding\\UE4\\RoboWorld_BP22\\Content\\Python\\Data\\checkpoints/i50000_l256.ckpt"
+all_model_checkpoint_paths: "D:\\Coding\\UE4\\RoboWorld_BP22\\Content\\Python\\Data\\checkpoints/i60000_l256.ckpt"
+all_model_checkpoint_paths: "D:\\Coding\\UE4\\RoboWorld_BP22\\Content\\Python\\Data\\checkpoints/i70000_l256.ckpt"
